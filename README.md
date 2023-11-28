@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ajarin dong puh sepuh
+
 <!--
 **pikriPnyaPemula/pikriPnyaPemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
