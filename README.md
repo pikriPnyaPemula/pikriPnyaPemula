@@ -1,4 +1,4 @@
-### Hi its me Pikcreator 👋
+### Hi, I'm Pikcreator 👋
 
 Pemula JavaScript
 
