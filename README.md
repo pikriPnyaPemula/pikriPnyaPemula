@@ -1,6 +1,6 @@
-### Hi, I'm Pikcreator 👋
+### Hi, I'm piCreator 👋
 
-Pemula JavaScript
+Pemula Node JS
 
 <!--
 **pikriPnyaPemula/pikriPnyaPemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
